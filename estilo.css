@@ -54,11 +54,13 @@ div {
     text-align: center;
 }
 
-h1, h2, h3 {
+h1, h2,  {
     margin-bottom: 15px;
-    color:  white;
+    color: #6b3e26;
 }
-
+h3{
+    color: white;
+}
 
 .paragrafo {
     font-size: 18px;
@@ -149,3 +151,4 @@ h1, h2, h3 {
 
 
 } 
+
